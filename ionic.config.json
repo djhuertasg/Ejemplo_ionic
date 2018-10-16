@@ -1,0 +1,7 @@
+{
+  "name": "Mi2App",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
